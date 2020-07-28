@@ -4,3 +4,4 @@
 whoami
 pwd
 ls -l
+exit 0
