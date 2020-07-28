@@ -1,0 +1,5 @@
+name: 'DevSecOps Pipeline'
+description: 'Runs Security Checks'
+run:
+  using: 'Docker'
+  image: 'Dockerfile'
